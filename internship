@@ -1,1 +1,0 @@
-vendor/supplier<--purchase order-->inbound delivery(stock move)[vno->wh]supplier/vendor-->vendor bill-->pay
